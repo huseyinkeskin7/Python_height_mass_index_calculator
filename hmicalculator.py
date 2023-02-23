@@ -15,4 +15,4 @@ elif 18.5<bmi<24.9:
 elif 25<bmi<29.9:
     print("You are above your ideal weight")
 elif 30<bmi<39.9:
-    print("You are far above your ideal weight1")
+    print("You are far above your ideal weight")
